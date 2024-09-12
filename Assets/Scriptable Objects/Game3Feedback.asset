@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3ff9294822de4843ab9d7615b4c4024, type: 3}
+  m_Name: Game3Feedback
+  m_EditorClassIdentifier: 
+  FeedbackText1: "Sehr gut. Du hast alle ver\xE4nderten Leberflecke entdeckt. Der
+    n\xE4chste Schritt ist, mit den auff\xE4lligen Leberflecken den Hautarzt aufzusuchen
+    und diese abchecken zu lassen. Stellt sich ein solcher fr\xFChzeitig erkannter
+    Leberfleck als Hautkrebs heraus, kann er h\xE4ufig noch erfolgreich behandelt
+    werden."
+  FeedbackText2: "Bei der Suche hast du nicht alle ver\xE4nderten Leberflecke entdeckt
+    (rot markiert). Stellt sich ein solcher ver\xE4nderter Leberfleck sp\xE4ter als
+    Hautkrebs heraus, kann es oft schon zu sp\xE4t sein, diesen einfach zu behandeln.
+    Eine regelm\xE4\xDFige Untersuchung der eigenen Haut und ein Besuch beim Hautarzt
+    mit auff\xE4lligen Ver\xE4nderungen der Haut ist daher empfehlenswert, um dem
+    Hautkrebs vorzubeugen bzw. diesen fr\xFChzeitig zu erkennen."
